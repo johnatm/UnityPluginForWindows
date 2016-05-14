@@ -1,0 +1,16 @@
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\bin\Debug\UnityPluginForWindowsPhone.dll
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\bin\Debug\UnityPluginForWindowsPhone.pdb
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\bin\Debug\UnityPluginForWindowsPhone.pri
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\UnityPluginForWindowsPhone.dll
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\UnityPluginForWindowsPhone.pdb
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\priconfig.xml
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\priconfig.xml.intermediate
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\layout.resfiles
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\layout.resfiles.intermediate
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\resources.resfiles
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\resources.resfiles.intermediate
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\pri.resfiles
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\pri.resfiles.intermediate
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\qualifiers.txt
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\qualifiers.txt.intermediate
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryRealDLL\obj\Debug\MultipleQualifiersPerDimensionFound.txt

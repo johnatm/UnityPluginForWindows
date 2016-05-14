@@ -1,0 +1,5 @@
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryFakeDLL\bin\Debug\UnityPluginForWindowsPhone.dll
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryFakeDLL\bin\Debug\UnityPluginForWindowsPhone.pdb
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryFakeDLL\obj\Debug\UnityPluginForWindowsPhone.dll
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryFakeDLL\obj\Debug\UnityPluginForWindowsPhone.pdb
+E:\IIT\2nd Year\Imagine cup\GameSensorPlugins\UnityPluginForWindowsPhone\SensorTagLibraryFakeDLL\obj\Debug\SensorTagLibraryFakeDLL.csprojResolveAssemblyReference.cache
